@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lunicsergiu
 - 👀 I’m interested in Web and Mobile app development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working and still learning 
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: email lunicsergiu1999@gmail.com
 
 <!---
